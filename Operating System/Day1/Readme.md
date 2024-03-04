@@ -1,9 +1,8 @@
 # Introduction to Operating System
-
-  Intermediate between Hardware and Software applications
-  Hides hardware complexity (Read/write file storage, send/receive socket network)
-  Handles resource management (CPU scheduling, Memory management)
-  Provide isolation and protection (allocate different parts of memory to different applications so that applications don't overwrite other memory locations)
+	  Intermediate between Hardware and Software applications
+	  Hides hardware complexity (Read/write file storage, send/receive socket network)
+	  Handles resource management (CPU scheduling, Memory management)
+	  Provide isolation and protection (allocate different parts of memory to different applications so that applications don't overwrite other memory locations)
   
 # Operating System definition:
   An Operating System is a layer of systems software that:
