@@ -152,6 +152,7 @@
 
 ![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/d093ade5-bad5-4a2d-9269-237f64d9a7b4)
 
+# Details of Directory files:
+![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/5d4bd690-f6b6-4135-937d-9bd9e30d5b10)
 
-File system:
--------------
+
