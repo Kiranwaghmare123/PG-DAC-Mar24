@@ -75,6 +75,7 @@ Date: 04/03/2024
 	-h	
 	-help
 	
+![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/9a4e0d86-dd18-4124-a133-44d62b5451c7)
 
 # Home directory:
 	-The directory where user login is present
@@ -106,7 +107,7 @@ Date: 04/03/2024
     other Users: r,w,x
     Owner/user: r,w,x
     Group: r,w,x
-
+![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/90434fb5-927d-46af-83d1-edd1af16f670)
 
 # Symbolic mode: Permissions:
 --------------------------------
@@ -119,6 +120,9 @@ Date: 04/03/2024
 	0 : Removing permission
 	
 # command : chmod
+
+![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/8d4e8eee-1404-4f46-bbba-b384d5832858)
+
 # Shell:
 ------
     -Bourne shell
@@ -138,6 +142,11 @@ Date: 04/03/2024
     Now a days,
     -vi editor
     -nano editor
+
+# Steps to execute Shell program
+![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/3e3fb6b6-af57-4db4-8a13-094c28cb446b)
+![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/5f448977-a1e5-4d91-a740-19b41cdff77d)
+
 ----------------------------------------------------
 # Day 2:Process Management
 	-Process, life cycle
