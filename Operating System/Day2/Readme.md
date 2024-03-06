@@ -233,3 +233,8 @@ Date: 04/03/2024
     3. Medium term Scheduler
     -select which process should be brough into the device queue.
     -It is a process swapping out from the scheduler/CPU
+
+# Home-work
+
+### Explore following instructions and practice well:
+![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/9118a2a5-611d-40f6-8bcf-46b550cab8d0)
