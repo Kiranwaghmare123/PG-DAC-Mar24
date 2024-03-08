@@ -1,0 +1,219 @@
+Program 1:
+
+    #!/bin/bash
+    date
+    pwd
+    ls
+
+Program 2:
+
+    #!/bin/sh
+    ls
+    echo
+    echo "Welcome to Shell programming"
+    echo "your name please?"
+    read Name
+    echo "Hello, $Name"
+
+Program 3:
+
+    #!/bin/sh
+    var1=a var1=b var3=c
+
+    read var1 var2 var3
+
+    echo var1 is $var1
+    echo var2 is $var2
+    echo var3 is $var3
+
+Program 4:
+
+    #!/bin/bash
+    echo "Printing text"
+    echo -n "Printing text without newline"
+    echo -e "\nRemoving \t special \t characters\n"
+
+
+Program 5:
+
+    #!/bin/sh
+    echo "Hello ${Name-Sir/Madam}, have a nice day"
+
+
+Program 6:
+
+    #!/bin/sh
+    myVariable6=25
+    echo "myVariable1:" ${myVariable1=10}
+    echo "myVariable2:" ${myVariable2=1.123}
+    echo "myVariable3:" ${myVariable3='A'}
+    echo "myVariable4:" ${myVariable4=true}
+
+Program 7:
+
+    Shell Parameters
+
+    Parameters	Function
+    $1-$9	Represent positional parameters for arguments 
+    one to nine
+    ${10}-${n}	Represent positional parameters
+     for arguments after  nine
+    $0	Represent name of the script
+    $∗	Represent all the arguments as a single string
+    $@	Same as $∗, but differ when enclosed in (")
+    $#	Represent total number of arguments
+    $$	PID of the script
+    $?	Represent last return code
+
+Program 8:
+
+    #!/bin/bash
+
+    echo "File name: $0"
+    echo "First Parameter : $1"
+    echo "Second Parameter : $2"
+    echo "Quoted Values: $@"
+    echo "Quoted Values: $*"
+    echo "Total Number of Parameters : $#"
+
+Program 9:
+
+    #!/bin/sh
+    #multiply.expr - multiply
+    #first arg by second
+    Result=`expr $1 \* $2`
+    echo Result of $1 \* $2 is $Result
+
+Program 10:
+
+    #!/bin/bash
+    # Adding two values
+    ((sum=25+35))
+    #Print the result
+    echo $sum
+
+Program 11:
+
+    #!/bin/bash
+    echo -n "Enter first number:"
+    read x
+    echo -n "Enter second number:"
+    read y
+    (( sum=x+y ))
+    echo "The result of addition=$sum"
+
+Program 12:
+
+    #!/bin/bash
+    string1="Ubuntu"
+    string2="Pit"
+    string=$string1$string2
+    echo "$string is a great resource for Linux beginners."
+
+Program 13:
+
+    #!/bin/bash
+    #This script calculates the square of 5.
+    ((area=5*5))
+    echo $area
+
+
+Program 14:
+
+    #!/bin/bash
+
+    echo -n "Enter Number:"
+    read num
+
+    if [[ ( $num -lt 10 ) && ( $num%2 -eq 0 ) ]]; then
+            echo "Even Number"
+    else
+            echo "Odd Number"
+    fi
+
+Program 15:
+
+    #!/bin/bash
+
+    echo -n "Enter a number: "
+    read num
+
+    case $num in
+            100)
+                    echo "Hundred!!" ;;
+            200)
+                    echo "Double Hundred!!" ;;
+            *)
+                    echo "Neither 100 nor 200" ;;
+    esac
+
+Program 16:
+
+    #!/bin/bash
+
+    for arg in "$@"
+    do
+            index=$(echo $arg | cut -f1 -d=)
+            val=$(echo $arg | cut -f2 -d=)
+            case $index in
+                    X) x=$val;;
+                    Y) y=$val;;
+                    *)
+            esac
+
+Program 17:
+
+    #!/bin/bash
+    i=0
+
+    while [ $i -le 2 ]
+    do
+            echo Number: $i
+            ((i++))
+    done
+
+Program 18:
+
+    #!/bin/sh
+
+    a=10
+
+    until [ $a -lt 10 ]
+    do
+       echo $a
+       a=`expr $a + 1`
+    done
+
+Program 20:
+
+    #!/bin/sh
+
+    a=0
+
+    while [ $a -lt 10 ]
+    do
+       echo $a
+       if [ $a -eq 5 ]
+       then
+          break
+       fi
+       a=`expr $a + 1`
+    done
+
+
+Program 21:
+
+    #!/bin/sh
+
+    for var1 in 1 2 3
+    do
+       for var2 in 0 5
+       do
+          if [ $var1 -eq 2 -a $var2 -eq 0 ]
+          then
+             break 2
+          else
+             echo "$var1 $var2"
+          fi
+       done
+    done
