@@ -1,0 +1,40 @@
+1.	Define the types of Operating System?
+2.	Explain DHCP?
+3.	Explain DNS?
+4.	Explain paging?
+5.	Explain segmentation?
+6.	Explain memory management?
+7.	Explain the function of OS?
+8.	Explain a kernel? Its architecture and working?
+9.	Explain a shell script?
+10.	Explain a page fault?
+11.	Explain a deadlock?
+12.	Define the necessary conditions for deadlock?
+13.	Explain a semaphore?
+14.	Explain a mutex?
+15.	Difference among kernel space and user space. 
+16.	Write in brief the ping command.
+17.	 Explain UNIX?
+18.	Explain grep?
+19.	Explain pipe?
+20.	Difference among Thread & Process.
+21.	Explain a scheduling algorithm?
+22.	Explain pre-emptive and non-preemptive scheduling?
+23.	Define the different scheduling algorithms
+24.	Explain booting process?
+25.	Explain bias?
+26.	Explain the difference among static memory allocation and dynamic memory allocation?
+27.	UNIX commands like touch, sed, grep.
+28.	Explain a process and process table? Define different states of process?
+29.	Define the benefits of multithreaded programming?
+30.	Explain Thrashing?
+31.	Explain Belady’s Anomaly?
+32.	Explain starvation and aging?
+33.	Explain a trap and trapdoor?
+34.	Explain a daemon?
+35.	Which application software's executed on OS?
+36.	Define daemon objects and thread objects?
+37.	Give commands for finding process ID.
+38.	 How to edit, rename and move file in Linux?
+39.	 Give 5 commands in Linux with explanation
+40.	Which are deadlock handling situations?
