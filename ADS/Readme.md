@@ -81,6 +81,7 @@ Advantage of Algorithm:
 	-Non Linear :
 		-Elements are arranged in one to many and many to many dimension.
 		-Tree, heap, graph,..
+![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/6115ca94-f910-462d-9b8c-ee87068b8075)
 		
 # Home Work: 
 	1.Differentiate between primitive and non primitive
@@ -107,6 +108,7 @@ Advantage of Algorithm:
 	-does not specify how data will be organized in memory.
 	-called as "abstract" because it give an implementation-independent view
 	-The process of providing only the essentials and hiding the details is known as abstraction.
+![image](https://github.com/Kiranwaghmare123/PG-DAC-Mar24/assets/72081819/b05caefe-bcb7-4d74-aba1-24c2fabce1f4)
 
 # Recursion:
 
