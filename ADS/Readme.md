@@ -82,8 +82,9 @@ Advantage of Algorithm:
 		-Elements are arranged in one to many and many to many dimension.
 		-Tree, heap, graph,..
 		
-Home Work: 1.Differentiate between primitive and non primitive
-	1.Differentiate between Linear and non linear
+# Home Work: 
+	1.Differentiate between primitive and non primitive
+	2.Differentiate between Linear and non linear
 	
 # Keywords:
 
