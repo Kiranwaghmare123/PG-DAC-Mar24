@@ -107,3 +107,42 @@ Home Work: 1.Differentiate between primitive and non primitive
 	-called as "abstract" because it give an implementation-independent view
 	-The process of providing only the essentials and hiding the details is known as abstraction.
 
+# Recursion:
+
+	-Any function which calls itself directly or indirectly is called recursion.
+	- a recursive method solves a problem by calling a copy of itself to work on smaller problem.
+	-TOH,Tree traversals, DFS,BS,Merge sort, Quick sort.
+
+
+# Ex: Direct REcursion:
+
+	void recursion()
+	{
+		.....
+		recursion()
+	}
+
+
+	int main()
+	{
+	....
+	recursion()
+	}
+
+# Ex: Indirect REcursion:
+
+	int rec1()
+	{
+	..
+	rec2()
+	}
+	int rec2()
+	{
+	...
+	rec1()
+	}
+	int main()
+	{
+	 rec1()
+	}
+
