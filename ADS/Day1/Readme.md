@@ -1,4 +1,4 @@
-# Day 1 : 100 special Programs: Basic Logic Building
+# Day 1 : 100 Special Programs Series: Recursion: Basic Logic Building
 
     1. Write a Java Program to find GCD of two given numbers. 
     2. Write a java program to LCM of TWO given number. 
