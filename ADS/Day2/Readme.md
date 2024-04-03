@@ -1,5 +1,5 @@
 
-# Day 2 :  100 special Programs Series: Recursion
+# Day 2 :  100 Special Programs Series: Recursion
 
     1. Print 1 to n without using loops
     2. Sum of natural numbers using recursion
