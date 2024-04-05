@@ -51,8 +51,42 @@ Date: 05/04/2024
     	head.prev = new_node;
     head = new_node;
     
-
+    2. Insertion: Insert after a node
+    	void insertAfter(Node prev, int new_data)
+	{
+		if(prev == null)
+			return;
+		Node new_node = new Node(new_data);
+		new_node.next = prev.next;
+		prev.next = new_node;
+		new_node.prev = prev;
+		Node p = new_node.next;
+		p.prev = new_node;
+		
+	}
 
 # Traversal 
 
-
+    void display(Node n)
+    	{
+    		Node p=null;
+    		System.out.println("Forward printing:");
+    		while(n != null)
+    		{
+    			System.out.print(n.data+ " ");
+    			p=n;
+    			n=n.next;
+    			
+    		}
+    		System.out.println("--------");
+    		System.out.println("Backward printing:");
+    		while(p != null)
+    		{
+    			System.out.print(p.data+ " ");
+    			p=p.prev;
+    			
+    		}
+    		
+    		
+    	}
+     
