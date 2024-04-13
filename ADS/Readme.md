@@ -149,3 +149,92 @@ Advantage of Algorithm:
 	 rec1()
 	}
 
+# Homework:
+### Day 1 : Special Logic Building Assignment: 100 special Programs
+
+	1. Write a Java Program to find GCD of two given numbers. 
+	2. Write a java program to LCM of TWO given number. 
+	3. Write a Java Program to print all the Prime Factorsof the Given Number. 
+	4. Check whether the Given Numberis a Palindrome or NOT. 
+	5. Write a Java Program to check whether the Given Number is Prime Number or NOT. 
+	6. Write a Java Program to check whether the given number is Armstrong Numberor NOT. 
+	7. Write a Java Program to check whether the given number is Perfect Numberor NOT. 
+	8.  Write a Java Program to check whether the given numbers are Amicable Numbersor NOT.
+	9. Write a Java Program to check whether the given number is Ramanujam's Numberor NOT.
+	10. Write a Java Program check whether the given number is Automorphic Numberor NOT.
+
+----------------------------------------------------------
+### Day 2 : Special Logic Building Assignment: 10 special Recursion Programs
+
+	1. Print 1 to n without using loops
+	2. Sum of natural numbers using recursion
+	3. Mean of Array using Recursion
+	3. Sum of array elements using recursion
+	4. Decimal to binary number using recursion
+	5. Sum of digit of a number using recursion
+	6. Print reverse of a string using recursion
+	7. Program for length of a string using recursion
+	8. Tail recursion to calculate sum of array elements.
+	9. Recursive function to check if a string is palindrome
+	10. Print Fibonacci Series in reverse order using Recursion
+
+
+----------------------------------------------------------
+### Day 3 :  100 Special Programs Series: Linked list
+
+	1.Implement singly linked list in java
+	2.Implement Doubly linked list in java
+	3.How to reverse a linked list in java
+	4.How to merge two linked list in sorted order in java
+	5.How to find middle element of linked list in java
+	6.How to detect a loop in linked list in java
+	7.Find start node of loop in linkedlist
+	8.How to find nth element from end of linked list
+	9.How to check if linked list is palindrome in java
+	10.Add two numbers represented by linked list in java
+
+----------------------------------------------------------
+### Day 4 :  100 Special Programs Series: Doubly linked list & Tree
+
+	1.Doubly Linked List Insertion in java
+	2.Reverse a Doubly Linked List in java
+	3.Delete a node in a Doubly Linked List in java
+	4.Program to find length of Doubly Linked List in java
+	5.Find the largest node in Doubly linked list in java
+	6.Insert value in sorted way in a sorted doubly linked list in java
+	7.Write tree traversals in java
+	8.Search a node in Binary Tree
+	9.Inorder Successor of a node in Binary Tree
+	10.Print Head node of every node in Binary Tree
+
+
+----------------------------------------------------------
+### Day 5 :  100 Special Programs Series: Linked list
+
+
+	1. Bubble Sort 
+	2. Quick Sort 
+	3. Selection Sort 
+	4. Insertion Sort 
+	5. Merge Sort 
+	6. Quick Sort
+	7. Sorting Strings using Bubble Sort
+	9. Bubble Sort for Linked List by Swapping nodes
+	10.Bubble Sort On Doubly Linked List
+
+----------------------------------------------------------
+### Day 6 :  100 Special Programs Series: Searching
+
+	1. Linear Search 
+	2. Binary Search 
+	3. Sort elements by frequency
+	4. Sort an array of 0s, 1s and 2s
+	5. Java Program to Check for balanced parenthesis by using Stacks
+	6. Java Program to Implement Stack
+	7. Java Program to Implement Queue
+	8. Java Program to Implement Dequeue
+	9. Java Program to Implement Stack Using Two Queues
+	10.Java Program to Implement Queue Using Two Stacks
+
+
+
