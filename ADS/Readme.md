@@ -209,7 +209,7 @@ Advantage of Algorithm:
 
 
 ----------------------------------------------------------
-### Day 5 :  100 Special Programs Series: Linked list
+### Day 5 :  100 Special Programs Series: Sorting
 
 
 	1. Bubble Sort 
@@ -223,7 +223,7 @@ Advantage of Algorithm:
 	10.Bubble Sort On Doubly Linked List
 
 ----------------------------------------------------------
-### Day 6 :  100 Special Programs Series: Searching
+### Day 6 :  100 Special Programs Series: Searching Stack & Queue
 
 	1. Linear Search 
 	2. Binary Search 
